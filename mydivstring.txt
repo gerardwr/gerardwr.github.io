@@ -1,0 +1,7 @@
+Verlichting,Blokker,1,1,Sunset-,45,On,
+Verlichting,Blokker,1,1,23,30,Off,
+Verwarming,Kaku,1,1,7,0,On,
+Verwarming,Kaku,1,1,23,0,Off,
+Rolluiken,Somfy,1234,1,8,30,On,
+Rolluiken,Somfy,1234,1,Sunset-,0,Off,
+6,,,,,,,7,,,,,,,8,,,,,,,9,,,,,,,10,,,,,,,11,,,,,,,12,,,,,,,13,,,,,,,14,,,,,,,15,,,,,,
